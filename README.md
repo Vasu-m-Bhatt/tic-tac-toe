@@ -1,1 +1,2 @@
 # tic-tac-toe
+This is a browser-based Tic Tac Toe game developed using HTML, CSS, and JavaScript. The project allows two players to play interactively on the same screen with real-time updates. It includes core game logic such as win detection, draw conditions, and turn-based gameplay. The user interface is designed to be simple, responsive, and easy to use. This project was built to strengthen concepts of JavaScript logic and DOM manipulation. It demonstrates the implementation of basic game development principles in a web environment.
